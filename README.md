@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itszerocode or you can call me Amarjeet or just "AJ" is also fine! 
 - 👀 I’m interested in ... coding obviously then also astrophysics, reading.
-- 🌱 I’m currently learning ... how to learn
-- 💞️ I’m looking to collaborate on ... React, AWS 
+- 🌱 I’m currently learning ... this could be a n number of things. 
+- 💞️ I’m looking to collaborate on ... React, Javascript, SharePoint, AWS 
 - 📫 How to reach me ... email me on itszerocode@gmail.com
 
 <!---
